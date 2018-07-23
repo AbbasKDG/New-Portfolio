@@ -8,6 +8,7 @@ Portfolio design for Web Developement
 ../Coming Soon
 ```
 ##Build
+
 *[CSS Grid] - for truly responsive design
 *[Font awesome] - for the great icons
 *[Javascript] - to bring it all to life
